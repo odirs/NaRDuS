@@ -1,0 +1,43 @@
+DIGITAL	20
+cloud computing	2
+photonics and light technologies	4
+blockchain	0
+robotics	0
+modeling simulation and gaming	2
+quantum computing	0
+grid computing	0
+artificial intelligence	7
+internet of things	4
+big data analytics	1
+ENERGY+ENVIRONMENT	21
+smart grids	3
+micro and nano satellites	8
+precission agriculture	0
+biofuels	1
+autonomous vehicles	0
+power microgeneration	0
+fuel cells	5
+advanced energy storage technologies	1
+drones	0
+electric vehicles	0
+carbon capture and storage	0
+photovoltaics	0
+wind turbine technologies	3
+hydrogen energy	1
+marine and tidal power technologies	0
+BIOTECHNOLOGIES	26
+bioinformatics	3
+personalised medicine	1
+stem cells	13
+health monitoring technology	0
+medical and bioimaging	0
+regenerative medicine and tissue engineering	5
+nanotechnologies	2
+biochips and biosensors	2
+synthetic biology	0
+ADVANCED MATERIALS	19
+nanomaterials	7
+functional materials	0
+nanodevices	0
+additive manufacturing	2
+carbon nanotubes and graphene	10

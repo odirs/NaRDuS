@@ -1,0 +1,100 @@
+2399 	 retinal detachment, scleral buckling, duration of macular detachment, visual acuity 
+2398 	 pulmonary rehabilitation, preoperative pulmonary rehabilitation, lung cancer, surgical treatment of lung cancer 
+2397 	 Intracranial meningioma, peritumoral edema, angiogenesis, VEGF expression, proliferative potential, microvascular density, treatment outcome 
+2396 	 Race, Aorta, Aneurysm, Computerized Tomography, EVAR 
+2395 	 elite athletes, metabolic hormones, adipose tissue, free fatty acid, physical activity 
+2394 	 hyperbaric oxygenation, brain injury, locomotor impairments, oxidative stress, regeneration, GAP43, synaptophysin, astrogliosis, neural degeneration 
+2393 	 non invasive diagnostic, coronary artery disease, coronary flow reserve, multi-slice computed coronary angiography 
+2392 	 vasopressin, V2, stress, hypothalamus, blood pressure, heart rate, cardiovascular variability 
+2391 	  
+2390 	 AML; FLT3; NPM1; outcome 
+2389 	 amyotrophic lateral sclerosis, survival, prognostic factors 
+2388 	  
+2387 	 colorectal cancer, microsatellite instability, genetic marker, survival, PCR 
+2386 	 squamous cell esophageal cancer, chemoradiation, EGFR, TRG 
+2385 	 hip fracture, geriatric populations, rehabilitation, balneotherapy and functional recovery, quality of life 
+2384 	 18F-FDG PET/CT , MDCT, sarcoidosis, ACE, clinical management, therapy evaluation 
+2383 	 breast cancer, antioxidative enzymes, gelatinases, cell death parameters 
+2382 	 Shizophrenia, depression, Interleukine-6, Tumor necrosis factor-alpha 
+2381 	 Parkinson's disease, TMS, PAS, plasticity 
+2380 	 Chiari pelvic osteotomy, insufficient femoral head coverage, noncemented total hip endoprosthesis, total hip arthroplasty, joint incongruency, acetabulum, acetabular component 
+2379 	 osteoarthritis, the risk of hip fracture, HSA, micro-CT 
+2378 	 pregnancy, antithyroid antibodies, fetal thyroid ultrasound, fetal fT4 
+2377 	 ischemia/reperfusion injury, mTOR inhibitor, everolimus, inflamamation, chemokines, NF-kB 
+2376 	 extracts, S. scardica, apoptosis, autophagy 
+2375 	 Parkinson's disease, dyskinesia, L-dopa, val66met polymorphism of BDNF gene 
+2374 	 anaesthetic risk, paediatric anesthesia, anesthetic complications, pediatric neurosurgery, scoring system 
+2373 	 dystonia, neurogenetic, DYT1, DYT6, DYT5a, DYT11, DYT8, DYT18, genetic testing 
+2372 	 Complexity, Fractal, Lacunarity, Ageing, Entropy 
+2371 	 Epileptic seizures 
+2370 	 Prognostic parameters, advanced Hodgkin’s lymphoma 
+2369 	 bombesin antagonists, magnignant neplasms, cancer 
+2368 	 risk factors, thyroid surgery, hypotension, hypertension, cardiac dysrhythmia 
+2367 	 HIV infection, street-based [outdoor] female sex workers, indoor female sex workers, condom, psychoactive substances, knowledge, behavior, healthcare professionals, stigma, and discrimination 
+2366 	 antiphospholipid syndrome, antipshospholipd antibodies, cardiovascular manifestations, valvular changes, accelerated atherosclerosis 
+2365 	 IL28B, Hepatitis C virus (HCV), single nucleotide polymorphism (SNP), sustained virological response (SVR) 
+2364 	 echocardiography, aortic stenosis, dobutamine infusion, coronary flow reserve, predictive value 
+2363 	 RCC, hypoxia activated genes, MAPK, PI-3, RCC, endothelial cells. 
+2362 	 pregnancy, health status determinants, quality of life, health related quality of life, pregnancy symptoms, pregnancy acceptance, depression, fatigue, social support, measuring instrument validation 
+2361 	 Intraocular pressure, Glaucoma, Spectral analysis 
+2360 	 malaria, cytokines, parasitemia, thrombocytopenia, TNF- , IL-6 
+2359 	 stroke, prognosis, mortality, recurrence, functional recovery 
+2358 	 autoimmunity, experimental autoimmune encephalomyelitis, methylprednisolone, IL-17 
+2357 	 Laryngeal Neoplasms; Squamous Cell Carcinoma; Comorbidity, Survival Analysis 
+2356 	 right ventricle, hypertrophy, diastolic dysfunction, ambulatory monitoring 
+2355 	 triple pelvic osteotomy, biomechanical analysis, adolescence, acetabular dysplasia, osteoarthritis, mathematical hip joint modeling, hip joint contact stress, index of hip stress gradient, outcome predictor 
+2354 	 lipids, metabolism, toxoplasmosis, host 
+2353 	 benign breast disease, breast cancer, calreticulin, anti-calreticulin antibodies, ELISA, humoral immunity, CD26 expression, lymphocyte subpopulations 
+2352 	 leukemic cells, cytotoxicity, oxidative stress, caspase-independent apoptosis, differentiation 
+2351 	 Focal epilepsies, temporal lobe, periictal vegetative signs 
+2350 	 chronic hepatitis C, pegylated interferon, depression, risk factors, assessment tools, correlation 
+2349 	 GFR, cystatin C, creatinine, creatinine clearance, 99mTc-DTPA clearance, pregnancy, PIH, nephrotic syndrome, diabetes, BEN 
+2348 	 LCA, sports, risk factors, intercondylar fossa, tibial slope 
+2347 	 alloimmunization; hyperbilirubinemia; hemolytic disease of fetus/neonate; Rh(D) incopatibilia; development disorders; disorders of development speech and hearing; intrauterine intravascular transfusion; psychomotor development 
+2346 	 HSP, biomarkers, severe trauma, critically ill, sepsis, scoring systems, predictive value 
+2345 	 physicians, stress, burnout, quality of life, job satisfaction, emotional profile 
+2344 	 stroke, biological rhythms, time series, ARIMA model 
+2343 	 fever of unknown origin, extrapulmonary tuberculosis, diagnostics, PPD skin test, adenosine deaminase, disposition factors, treatment 
+2342 	 upper urinary tract urothelial carcinoma, bladder cancer, survival, predictive factors, ureter, renal pelvis 
+2341 	 health survey; health status measurement; inequalities in health, morbidity, socio-economic determinants; Serbia 
+2340 	 Mesenchymal stem cells; interleukin-17; mouse; bone marrow; proliferation; hematopoiesis; immunomodulation 
+2339 	 molecular genetics, stem cell transplantation, chimerism, STR-PCR, RT-PCR 
+2338 	 score, ultrasonography, immature appereance of placenta, intensified fetal breathing movements, fetal subcutaneous adipose tissue, assymetric macrosomy 
+2337 	 cornea, transplantation, T regulatory cells, rapamycin, cyclosporine A 
+2336 	 fatigue crack growth, eXtended Finite Element Method (XFEM), fracture toughness, Friction Stir Welding (FSW), software, welded construction,LEFM - linear-elastic fracture mechanics, EPML - elasto-plastic fracture mechanics, stress intensity factor- K , J-integral 
+2335 	 Road Safety, Monitoring a Road Safety, Road Safety Indicators, Casualty Risks, Risk Mapping 
+2334 	 glucose, transcutaneous, non-invasive measurement, optics, spectroscopy, imaging, Brewster’s angle 
+2333 	 friction stir welding, aluminum 5083 alloy, charpy impact test, microstructural fracture analysis, absorbed energy, fracture resistance, ductile fracture 
+2332 	 renewable energy resources, wind turbine, aerodynamics, computational fluid dynamics, airfoil, optimization 
+2331 	 multilayered anisotropic plate, nonlinear higher order plate theory, “interface’ in laminate, undumped free vibration of multilayered plate, transversal forced vibration of multilayered plate, design variables, optimal multilayered structure design 
+2330 	 thermal hydraulic transient, temperature wave, method of characteristics, water hammer, condensation 
+2329 	 project management, Internet technologies, investment projects, risk mangement, risk matrix 
+2328 	 contact lenses, nanomaterials, fullerenes, opto-magnetic spectroscopy, glucose, patent documentation 
+2327 	 dynamic, finite element method, diagnosis, energy, distribution, behavior 
+2326 	 nonlinear rolling of ships, gusting wind, probabilistic analysis, safety assessment, ship stability, probabilistic regulations, prescriptive regulations, inland container vessel, marine accidents, risk-based design 
+2325 	 swirling flows, circumferential velocity, turbulent model, computational fluid dynamics, OpenFOAM 
+2324 	 corner welded joints, Finite element method, 3D optical analysis, stress, strain 
+2323 	 linear systems, mathematical modeling, dynamic analysis, order reduction of linear systems, balancing transformation, multimodeling, linear quadratic optimal control 
+2322 	 water, exclusion zone, hydrphobic and hydrofilc materials, hydrogen bonding, quantum superposition, nanomaterials, biomolecules 
+2321 	 laminated composites, impact, damage modeling 
+2320 	 Heat energy, District Heating, biomass, pellets/briquettes, combustion, ecology 
+2319 	 diffuser, swirl flow, measurements, swirl number, turbulent stresses, loss coefficient, model 
+2318 	 Quantification, Risk, Development, Industrial product 
+2317 	 Gearbox, gear, loading spectra, reliability, failure probability, measuring torque, Visual Basic 6 
+2316 	 weldments, micromechanical approach, ductile fracture, mechanical heterogeneity, finite element method, constraint effect, initiation toughness, transferability 
+2315 	 manoeuvre properties, engine thrust vector deflection, attack manoeuvre, ground target, flight mode, simulation mode of aircraft motion, boundary layer, weaponry 
+2314 	 steam generator, coal, coal dust, inertial separator, recirculation, two-phase flow, partial differential equation, mathematical model, control volumes numerical method 
+2313 	 viscous heavy liquid fuels, fluidized bed, lateral jet penetration, fluidporous media model, granular Euler-Euler model 
+2312 	 Layering – the dough strip lamination, reversible mechanism, axiomatic design, decomposition, optimal synthesis 
+2311 	 Intelligent Manufacturing Systems, material handling, mobile robot, artificial neural networks 
+2310 	 aircraft maintenance, hierarchical data structure, tree, newsboy problem, bill of material 
+2309 	 ship resistance, waterway restrictions, propeller-shaft torque measurements, mathematical model, artificial neural network, power absorption, propulsion coefficients, external influences, power margine, energy efficiency design index 
+2308 	 boiling, critical heat flux, boiling crises, numerical simulation 
+2307 	 power transmission systems, load, clearance, vehicle, lifetime 
+2306 	 optimization, maitenance models, motor vehicles, bus fleets, reliability 
+2305 	 drying, psyhrometrics, convection, recirculation, difussion, food materials, heat pump, energy efficiency 
+2304 	 Combustion, Gaseous Fuels, Burners, Laminar Flame, Chemiluminescence, Measurement Technique, NOx 
+2303 	 Internal combustion engines, Combustion features, Ignition timing control,Cranckshaft dynamics, Neural networks 
+2302 	 cathodic protection, factors of corrosion, impressed current system, river water protection, sea water protection, measuring the potential of the ship, potential distribution, numerically calculation, criteria for protection 
+2301 	 analysis, municipal waste, production, processing, mechanical properties 
+2300 	 Gantry cranes, Dynamic responses, Moving load, FEA, Moving mass, Moving oscillator, Swinging payload, Direct integration 
